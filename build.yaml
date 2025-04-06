@@ -134,7 +134,7 @@ docker:
       QEMU_ARCH: arm
       TARGET_ARCH: arm/v7
   dockerfile: docker/Dockerfile
-  imagename: megosugit/jellyfin
+  imagename: megosugit/jellyfin:release-10.10.z
 
 # Nuget packages
 nuget:
